@@ -1,6 +1,9 @@
 # Changelog
 
 ## [Unreleased]
+### Fixed
+- Using date math in index names - an index resource is tied to the resolved index it is created with.
+
 
 ## [1.2.0] - 2020-05-31
 ### Added
